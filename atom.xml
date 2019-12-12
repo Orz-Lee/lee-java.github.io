@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://blog.likejava.top/"/>
-  <updated>2019-12-12T05:31:38.527Z</updated>
+  <updated>2019-12-12T05:29:55.998Z</updated>
   <id>http://blog.likejava.top/</id>
   
   <author>
@@ -15,28 +15,6 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
-  
-  <entry>
-    <title>Test</title>
-    <link href="http://blog.likejava.top/2019/12/12/Test/"/>
-    <id>http://blog.likejava.top/2019/12/12/Test/</id>
-    <published>2019-12-12T05:29:18.000Z</published>
-    <updated>2019-12-12T05:31:38.527Z</updated>
-    
-    <content type="html"><![CDATA[<h2 id="测试"><a href="#测试" class="headerlink" title="测试"></a>测试</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span></pre></td><td class="code"><pre><span class="line">看看效果～</span></pre></td></tr></table></figure><p>More info: <a href="github.com/lee-java">github</a></p>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;h2 id=&quot;测试&quot;&gt;&lt;a href=&quot;#测试&quot; class=&quot;headerlink&quot; title=&quot;测试&quot;&gt;&lt;/a&gt;测试&lt;/h2&gt;&lt;h3 id=&quot;Create-a-new-post&quot;&gt;&lt;a href=&quot;#Create-a-new-post&quot; class=&quot;headerlink
-      
-    
-    </summary>
-    
-    
-    
-  </entry>
   
   <entry>
     <title>Hello World</title>
